@@ -38,9 +38,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Fibula.DataAccess.Contracts" Version="1.0.0" />
+    <PackageReference Include="Fibula.DataAccess" Version="1.0.0" />
     <PackageReference Include="Fibula.Parsing.CipFiles" Version="1.0.1" />
-    <PackageReference Include="Fibula.Server.Contracts" Version="1.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="5.0.0" />
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="5.0.0" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
