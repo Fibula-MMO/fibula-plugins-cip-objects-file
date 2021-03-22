@@ -1,6 +1,6 @@
 # Fibula MMO - Plugin: CipSoft Objects File
 
-![.NET](https://github.com/fibula-mmo/fibula-security/workflows/.NET/badge.svg)
+![.NET](https://github.com/fibula-mmo/fibula-plugins-cip-objects-file/workflows/.NET/badge.svg)
 
 This library contains the plugin that enables you to load the CipSoft objects file and use it in [the Fibula MMO project](https://github.com/fibula-mmo).
 
